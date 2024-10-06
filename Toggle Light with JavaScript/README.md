@@ -4,6 +4,8 @@ A simple JavaScript project that demonstrates how to toggle a light (dark/light 
 
 ## Demo
 
+Check Demo https://toggleglow.netlify.app/
+
 ![image](https://github.com/user-attachments/assets/3859a740-8d08-4dec-8564-d833023e8f3a)
 ![image](https://github.com/user-attachments/assets/39d8434a-b999-4956-8c2f-2555b3aa12bd)
 
